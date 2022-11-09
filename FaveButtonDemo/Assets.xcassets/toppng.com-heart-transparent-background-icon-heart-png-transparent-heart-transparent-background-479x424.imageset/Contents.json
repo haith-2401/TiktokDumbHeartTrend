@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "toppng.com-heart-transparent-background-icon-heart-png-transparent-heart-transparent-background-479x424.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
